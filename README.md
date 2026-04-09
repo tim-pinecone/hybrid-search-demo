@@ -11,11 +11,6 @@ A 4-tab Streamlit app that walks through every stage of a hybrid search pipeline
 
 **Full pipeline:** Dense query + Sparse query → Weighted RRF (0.4/0.6) → BGE Reranker → MMR → top-25
 
-<video width="560" height="315" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ---
 
 ## Architecture
